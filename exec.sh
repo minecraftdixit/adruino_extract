@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#sudo apt-get update -y
+#sudo apt-get update -y                          ##uncomment this line if you are freshly  running this bash script 
 #sudo apt-get install -y avrdude
 avrdude
 
